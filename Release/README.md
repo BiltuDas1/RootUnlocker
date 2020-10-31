@@ -2,8 +2,8 @@
 
 ### Version 1.0.1.2
 Some Downloading bug fixed  
-All temporary files will be remove after program close  
-What happening in background, all loges are tracked and saved into desktop
+All temporary files will be removed after the program close  
+What happening in the background, all loges are tracked and saved into desktop
 
 ### Version 1.0.1.1
 Initial Released
