@@ -40,7 +40,7 @@ Sometimes Android includes device drivers and sometime not. So we need to manual
 
 You will not find your usb drivers into a specific website, you need to find it into search engine
 
-Just search in Bing **Usb Drivers for [Device name]** then open an website and download usb driver.
+Just search into Bing by typing **Usb Drivers for [Device name]**. Then open a website and download usb driver.
 
 # Contact
 If you has any query then you can contact me at [STOPBACK](https://www.stopback.tk/p/contact-us.html)
