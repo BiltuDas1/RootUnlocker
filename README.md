@@ -9,9 +9,9 @@ For installing Root, you need to maintain follow instructions.
 
 2. ***Install Driver of Your Andorid OS and Turn on USB Debugging(ADB)*** [?](#how-to-find-a-device-driver)
 
-3. [Computer] Extract archive
+3. [Computer] Extract archive file into your desktop
 
-4. [Computer] Launch **TWRP.exe** in 'Root_Downloader' folder
+4. [Computer] Launch **TWRP.exe**
 
 5. [Computer] If you get an alert that **Device Connected!** then follow instructions to complete Install TWRP. If you wouldn't get **Device Connected!** alert then check device driver, make sure that device driver is properly installed into your PC and USB Debugging (ADB) is turned on.
 
@@ -27,7 +27,7 @@ For installing Root, you need to maintain follow instructions.
 
 11. [Device] If you see **SuperSU** in the Application list then your Device is successfully rooted.
 
-12. [Device] {Optional} In some device, **SuperSU** installed like user app. To make **SuperSU** as System App, Install System app mover into your Device and Choose **SuperSU** from the list and restart your Device.
+12. [Device] {Optional} In some device, **SuperSU** installed like user app. To make **SuperSU** as System App, Install [/system/app mover](https://play.google.com/store/apps/details?id=de.j4velin.systemappmover) into your Device and Choose **SuperSU** from the list and restart your Device.
 
 ***Warning: If you do anything wrong on it then your Device will not boot. So I recommended to backup your all files before installing SuperSU.***
 
