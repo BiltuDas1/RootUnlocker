@@ -10,7 +10,7 @@ Root Downloader is a Windows Program which helps you to unlock Root Into your An
 
 
 1. Connect Your Android Device to your PC using a USB Cable  
-2. [Computer] **Install Driver of Your Andorid OS and Turn on USB Debugging(ADB)** [?](#how-to-find-a-device-driver)  
+2. [Computer] **Install Driver of Your Andorid OS and Turn on USB Debugging(ADB)** [No Driver?](#how-to-find-a-device-driver)  
 3. [Computer] Create a folder on Desktop (example. Root)  
 4. [Computer] Copy all Pre-Requesting files on it.  
 5. [Computer] Launch **TWRP Installer**  
