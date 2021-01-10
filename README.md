@@ -1,5 +1,6 @@
 # Root Unlocker
-Root Downloader is a Windows Program which helps you to unlock Root Into your Android Device using One click.
+Root Downloader is a Windows Program which helps you to unlock Root Into your Android Device using One click.  
+*Please Note: before installing TWRP make sure that your device bootloader is unlocked.*  
 
 # How to Root using Root Unlocker?
 
