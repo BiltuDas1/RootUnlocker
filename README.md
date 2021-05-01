@@ -55,4 +55,4 @@ Click on the **SuperSU** from the list and restart your Device.
 
 
 ## Contact
-If you has any query then you can contact me at [STOPBACK](https://www.stopback.tk/p/contact-us.html)
+If you has any query then you can contact me at [Telegram](https://t.me/BiltuDas1)
