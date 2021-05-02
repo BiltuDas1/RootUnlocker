@@ -1,7 +1,8 @@
 # Versions
 
-### Version 1.0.1.1
-Initial Released
+### Version 1.0.1.2
+Some Major Bugs are fixed
+Added Temporary Installation
 
 # FAQ
 ### Is it requires Administrator Privileges?
