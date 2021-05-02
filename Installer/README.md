@@ -1,7 +1,7 @@
 # Versions
 
 ### Version 1.0.1.2
-Some Major Bugs are fixed
+Some Major Bugs are fixed  
 Added Temporary Installation
 
 # FAQ
