@@ -1,4 +1,5 @@
 [![SL Scan](https://github.com/BiltuDas1/RootUnlocker/actions/workflows/shiftleft-analysis.yml/badge.svg?branch=main)](https://github.com/BiltuDas1/RootUnlocker/actions/workflows/shiftleft-analysis.yml)
+[![Donate](https://img.shields.io/badge/Buy%20me%20a-Coffee-blue.svg)](https://www.buymeacoffee.com/stopback)
 # Root Unlocker
 Root Downloader is a Windows Program which helps you to unlock Root Into your Android Device using One click.  
 **Please Note: before installing TWRP make sure that your device bootloader is Unlocked. If you want to unlock the bootloader then [check this repo](https://github.com/BiltuDas1/unlock-Bootloader)**  
