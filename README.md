@@ -54,3 +54,6 @@ Sometime SuperSU installed like a User Application, It means you can easily unin
 
 Install [/system/app mover](https://play.google.com/store/apps/details?id=de.j4velin.systemappmover) into your Device.  
 Click on the **SuperSU** from the list and restart your Device.
+
+# Contact
+If you are interested then you can join into our telegram group [@techsouls0](https://t.me/techsouls0) or channel [@tecsouls](https://t.me/tecsouls)
